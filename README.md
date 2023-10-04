@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @2481842N
+- 👋 Hi, I’m @2481842NControl + Shift + mبرای
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-2481842N/2481842N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2481842N/2481842N is a ✨ special ✨ repository because its `README.md`tab (this file) appearsappears tabon your GitHub profile.appears
 You can click the Preview link to take a look at your changes.
 --->
+Control + Shift + mControl + Control + Shift + m، esc
